@@ -11,7 +11,7 @@ border: 1px solid lightgray; }
 height: 120px;  
 border-radius: 50%; } 
 h1 {color: darkblue;}
-.role {color: gray;font-size: 14px; }
+.role {color: gray;font-size: 14px;}
 h2 {color: blue;font-size: 20px}
 ul {text-align: left; }
 .button {display: inline-block;   
