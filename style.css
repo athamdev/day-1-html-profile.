@@ -1,22 +1,47 @@
-body {background-color: lightblue;   
- font-family: Arial, sans-serif; } 
-.card {  
-background-color: white;  
-width: 300px;padding: 25px;  
-margin: 50px auto; 
-border-radius: 15px;  
-text-align: center; 
-border: 1px solid lightgray; } 
-.img {width: 120px;  
-height: 120px;  
-border-radius: 50%; } 
-h1 {color: darkblue;}
-.role {color: gray;font-size: 14px;}
-h2 {color: blue;font-size: 20px}
-ul {text-align: left; }
-.button {display: inline-block;   
-background-color: blue;  
-color: white;  
-padding: 10px 15px; 
-text-decoration: none;   
-border-radius: 8px; }
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background-color: white;
+  width: 300px;
+  padding: 25px;
+  margin: 50px auto;
+  border-radius: 15px;
+  text-align: center;
+  border: 1px solid lightgray;
+}
+
+.img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.role {
+  color: gray;
+  font-size: 14px;
+}
+
+h2 {
+  color: blue;
+  font-size: 20px;
+}
+
+ul {
+  text-align: left;
+}
+
+.button {
+  display: inline-block;
+  background-color: blue;
+  color: white;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 8px;
+}
